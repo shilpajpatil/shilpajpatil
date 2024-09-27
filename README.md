@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Hi, I'm Shilpa, a passionate software engineer with expertise in Python, Flask, Django, and machine learning.
+- I've gained valuable experience during my internship in persistent systems and full-time at HCLTECH.
 
-<!--
-**shilpajpatil/shilpajpatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Technologies I work with:
+- Programming Languages: Python, HTML, CSS
+- Knowledge of programming language: C,CPP, Java , Javascript 
+- Frameworks: Flask, Django
+- Data Science: Pandas, NumPy, Scikit-learn, scipy, NLTK
+- Tools: Docker, Git, Jira
 
-Here are some ideas to get you started:
+💡 Currently exploring: machine learning, and cloud-based systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Let's connect: You can reach me via 
+   📩 pshilpa056@gmail.com.
+   📎  www.linkedin.com/in/shilpa-patil-1178b3137
+
+
+
