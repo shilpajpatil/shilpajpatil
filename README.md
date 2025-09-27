@@ -9,7 +9,7 @@
 - Tools: Docker, Git, Jira
 - Cloud: AWS 
 
-💡 Currently exploring: machine learning, and cloud-based systems.
+💡 Currently exploring: machine learning and cloud-based systems.
 
 📫 Let's connect: You can reach me via 
    📩 pshilpa056@gmail.com.
