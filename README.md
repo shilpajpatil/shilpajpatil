@@ -3,10 +3,11 @@
 
 🔧 Technologies I work with:
 - Programming Languages: Python, HTML, CSS
-- Knowledge of programming language: C,CPP, Java , Javascript 
+- Knowledge of programming language: C,CPP, Java,Javascript 
 - Frameworks: Flask, Django
 - Data Science: Pandas, NumPy, Scikit-learn, scipy, NLTK
 - Tools: Docker, Git, Jira
+- Cloud: AWS 
 
 💡 Currently exploring: machine learning, and cloud-based systems.
 
